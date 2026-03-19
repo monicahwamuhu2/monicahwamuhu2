@@ -13,20 +13,20 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a **Full-Stack Developer and AI Enthusiast** based in Nairobi, Kenya — passionate about building software that's not just functional, but *meaningful*. I blend AI, design, and storytelling to create human-centered tech solutions.
 
-- 🎓 BSc Software Engineering @ **Multimedia University of Kenya** (Class of 2025) · Second Class Upper
-- 🏆 **IEEE Xtreme 2024** — Ranked **13th nationally** & **1,350th globally**
-- 🤖 Building production-grade LLM apps with FastAPI, Next.js & RAG pipelines
-- 👩‍🏫 AI Tutor @ Tatu City — mentoring 50+ students in frontend dev & prompt engineering
-- 🌐 Community Manager @ **Geek-ssters** — trained 30+ students in AI tools & soft skills
-- 📡 Ex-Webmaster @ **IEEE Computer Society** — grew event attendance by 35%
+-  BSc Software Engineering @ **Multimedia University of Kenya** (Class of 2025) · Second Class Upper
+-  **IEEE Xtreme 2024** — Ranked **13th nationally** & **1,350th globally**
+- Building production-grade LLM apps with FastAPI, Next.js & RAG pipelines
+-  AI Tutor @ Tatu City — mentoring 50+ students in frontend dev & prompt engineering
+-  Community Manager @ **Geek-ssters** — trained 30+ students in AI tools & soft skills
+-  Ex-Webmaster @ **IEEE Computer Society** — grew event attendance by 35%
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **AI & Machine Learning**
 
@@ -60,19 +60,19 @@ I'm a **Full-Stack Developer and AI Enthusiast** based in Nairobi, Kenya — pas
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🧩 **Kenya Startup Navigator** | AI-powered platform with Kenya-specific startup guidance, RAG-style knowledge integration, confidence scoring & intelligent follow-ups | FastAPI · Next.js · Groq LLaMA 3 70B · Railway · Vercel | [Demo](https://monicahwamuhu2.github.io/Portfolio/) · [GitHub](https://github.com/monicahwamuhu2) |
-| 💬 **Mindful Connect** | Full-stack mental health platform with AI chatbot & 10-step therapist-matching algorithm targeting 80% cost reduction — 8.2/10 user satisfaction | React · Node.js · MongoDB · TensorFlow · NLP | [Demo](https://mc-frontend-8848.onrender.com/) · [GitHub](https://github.com/monicahwamuhu2/MC-frontend) |
-| 🤖 **Mental Health Chatbot** | Conversational AI with intent classification model, end-to-end ML pipeline (train → serialize → deploy) | FastAPI · Next.js · scikit-learn · joblib | [Demo](https://frontend-deploy-git-master-monicahs-projects.vercel.app/) · [GitHub](https://github.com/monicahwamuhu2/frontend-deploy) |
-| 📱 **SkillsMapper** | AI-powered SMS job-matching platform for Kenyan youth — conversational state machine, OAuth 2.0, live analytics dashboard | Node.js · Express · SQLite · Safaricom API · Africa's Talking | [GitHub](https://github.com/monicahwamuhu2) |
-| 🚦 **Smart Traffic System** | ML-based traffic prediction & signal control system — reduced simulated congestion by 25% | Python · Data Analysis · IoT | [GitHub](https://github.com/monicahwamuhu2/traffic-management-system) |
+|  **Kenya Startup Navigator** | AI-powered platform with Kenya-specific startup guidance, RAG-style knowledge integration, confidence scoring & intelligent follow-ups | FastAPI · Next.js · Groq LLaMA 3 70B · Railway · Vercel | [Demo](https://monicahwamuhu2.github.io/Portfolio/) · [GitHub](https://github.com/monicahwamuhu2) |
+|  **Mindful Connect** | Full-stack mental health platform with AI chatbot & 10-step therapist-matching algorithm targeting 80% cost reduction — 8.2/10 user satisfaction | React · Node.js · MongoDB · TensorFlow · NLP | [Demo](https://mc-frontend-8848.onrender.com/) · [GitHub](https://github.com/monicahwamuhu2/MC-frontend) |
+|  **Mental Health Chatbot** | Conversational AI with intent classification model, end-to-end ML pipeline (train → serialize → deploy) | FastAPI · Next.js · scikit-learn · joblib | [Demo](https://frontend-deploy-git-master-monicahs-projects.vercel.app/) · [GitHub](https://github.com/monicahwamuhu2/frontend-deploy) |
+|  **SkillsMapper** | AI-powered SMS job-matching platform for Kenyan youth — conversational state machine, OAuth 2.0, live analytics dashboard | Node.js · Express · SQLite · Safaricom API · Africa's Talking | [GitHub](https://github.com/monicahwamuhu2) |
+|  **Smart Traffic System** | ML-based traffic prediction & signal control system — reduced simulated congestion by 25% | Python · Data Analysis · IoT | [GitHub](https://github.com/monicahwamuhu2/traffic-management-system) |
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -83,26 +83,26 @@ I'm a **Full-Stack Developer and AI Enthusiast** based in Nairobi, Kenya — pas
 
 ---
 
-### 🏅 Certifications & Awards
+###  Certifications & Awards
 
-- 🥇 **IEEE Xtreme 2024** — 13th nationally · 1,350th globally
-- ☁️ **Microsoft Azure AI Fundamentals** — Microsoft
-- 🤖 **IBM Artificial Intelligence Fundamentals** — IBM SkillsBuild
-- 🏗️ **Oracle Cloud Infrastructure Foundations Associate** — Oracle University
-- 🔒 **Data Protection Certificate** — CIPIT, Strathmore University
+-  **IEEE Xtreme 2024** — 13th nationally · 1,350th globally
+-  **Microsoft Azure AI Fundamentals** — Microsoft
+-  **IBM Artificial Intelligence Fundamentals** — IBM SkillsBuild
+-  **Oracle Cloud Infrastructure Foundations Associate** — Oracle University
+-  **Data Protection Certificate** — CIPIT, Strathmore University
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 I'm always open to interesting collaborations, opportunities, or just a good tech conversation. Reach me at:
 
-📧 **monicahwamuhu2@gmail.com** · 📞 **+254 717 192 945** · 🌍 **Nairobi, Kenya**
+ **monicahwamuhu2@gmail.com** ·  **+254 717 192 945** ·  **Nairobi, Kenya**
 
 ---
 
 <div align="center">
   
-⭐️ From [monicahwamuhu2](https://github.com/monicahwamuhu2) — *building tech that matters*
+ From [monicahwamuhu2](https://github.com/monicahwamuhu2) — *building tech that matters*
 
 </div>
